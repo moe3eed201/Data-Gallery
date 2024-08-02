@@ -1,0 +1,32 @@
+.detail-container {
+    margin-top: 2rem;
+    max-width: 1280px;
+    width: 100%;
+    background-color: rgb(139, 185, 232);
+    box-shadow: 0 4px 20px hsla(207, 24%, 35%, 0.1);
+    padding: 2rem 0 1rem 2rem;
+    border-radius: 15px;
+  }
+  
+  .detail-content {
+    margin-top: 20px;
+  }
+  
+  .detail-image {
+    width: 10rem;
+    height: 10rem;
+    object-fit: cover;
+    object-position: 50% 0%;
+    border-radius: 50%;
+    align-self: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .back-link {
+    display: block;
+    margin-top: 20px;
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
